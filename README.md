@@ -1,4 +1,4 @@
-# Dataset_MakingSquashRefereeDecisionsWIthMachineLearning
+# Dataset_MakingSquashRefereeDecisionsWithMachineLearning
 This repository provides the collected dataset for the study "Making Referee Decisions with Machine Learning in the Sport of Squash" by Enqi M
 - Three Things are included in this study
     - The excel spreadsheet with all the Referee Decisions collected
